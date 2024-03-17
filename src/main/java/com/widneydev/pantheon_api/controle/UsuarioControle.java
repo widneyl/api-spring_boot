@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.widneydev.pantheon_api.modelo.Usuario;
 import com.widneydev.pantheon_api.servico.UsuarioServico;
 
